@@ -1,0 +1,8 @@
+.env
+
+node_modules
+dist
+dist-ssr
+
+username=kumarvivek56452
+password=FtOjBt9xcMGApPox
